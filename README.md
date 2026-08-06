@@ -77,13 +77,17 @@
 <h3>📫 Connect With Me</h3>
 
 <p>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/fatma-hawari-249402270">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_BEHANCE_LINK">
+
+  <a href="https://www.behance.net/fatmaeel">
     <img alt="Behance" src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
+
   <a href="mailto:YOUR_EMAIL">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="fatmahawari3@gmail.com
+" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
