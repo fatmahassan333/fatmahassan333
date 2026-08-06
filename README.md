@@ -57,7 +57,7 @@ I enjoy combining technology and design to create simple and user-friendly digit
 
 ## 📫 Connect With Me
 
-* LinkedIn
+* LinkedIn 
 * Behance
 * Email
 
